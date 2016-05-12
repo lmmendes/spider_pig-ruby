@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Spider Pig web crawler}
   spec.description   = %q{Spider Pig! Does whatever a spider pig does! Can he swing from a web? No he can't He's a pig Lookout! He is the spider pig!!}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/lmmendes/spider_pig-ruby"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
